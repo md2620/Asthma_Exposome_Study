@@ -1,4 +1,5 @@
-# Asthma Exposome Study
+# An exposome approach: Predicting the incidence of Asthma Attacks using multiple environmental exposures and lifestyle factors.
+
 This project was aimed at predicting asthma attacks trhough the implementation of 4 machine learning algorithms: KMeans, SVM, Random Forest and Gradient Boost respectively. 
 
 2134 asthma cases in the NHANES dataset were matched with a balanced control group based on age, sex and ethnicity (ratio of 4 controls per case).
